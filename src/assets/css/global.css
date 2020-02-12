@@ -1,0 +1,12 @@
+html,body,#app{
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  min-width: 1380px;
+}
+body>#app{
+    margin-top: 0px;
+}
+.Top10{
+  margin-top: 10px;
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1001",
+    "menuName": "用户管理",
+    "icon": "el-icon-user",
+    "path": "null",
+    "children": [
+      {
+        "id": "1006",
+        "menuName": "用户列表",
+        "icon": "el-icon-menu",
+        "path": "/userlist",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "1002",
+    "menuName": "权限管理",
+    "icon": "el-icon-setting",
+    "path": "",
+    "children": [
+      {
+        "id": "1007",
+        "menuName": "角色列表",
+        "icon": "el-icon-menu",
+        "path": "roles",
+        "children": []
+      },
+      {
+        "id": "1008",
+        "menuName": "权限列表",
+        "icon": "el-icon-menu",
+        "path": "right",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "1003",
+    "menuName": "商品管理",
+    "icon": "el-icon-goods",
+    "path": "",
+    "children": [
+      {
+        "id": "1009",
+        "menuName": "商品列表",
+        "icon": "el-icon-menu",
+        "path": "goodslist",
+        "children": []
+      },
+      {
+        "id": "1010",
+        "menuName": "分类参数",
+        "icon": "el-icon-menu",
+        "path": "para",
+        "children": []
+      },
+      {
+        "id": "1011",
+        "menuName": "商品分类",
+        "icon": "el-icon-menu",
+        "path": "goodsort",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "1004",
+    "menuName": "订单管理",
+    "icon": "el-icon-s-order",
+    "path": "",
+    "children": [
+      {
+        "id": "1012",
+        "menuName": "订单列表",
+        "icon": "el-icon-menu",
+        "path": "/orderlist",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "1005",
+    "menuName": "数据统计",
+    "icon": "el-icon-c-scale-to-original",
+    "path": "",
+    "children": [
+      {
+        "id": "1013",
+        "menuName": "图标数据",
+        "icon": "el-icon-menu",
+        "path": "/data",
+        "children": []
+      }
+    ]
+  }
+]
